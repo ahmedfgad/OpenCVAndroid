@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml
+		INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:5:7-34
+		INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml
+		INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml:4:7-33
+		INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml
+		INJECTED from D:\My Articles\Heartbeat\8. A Guide to Prepare OpenCV for Android\OpenCVAndroid\openCVLibrary410\src\main\AndroidManifest.xml
