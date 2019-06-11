@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         OpenCVLoader.initDebug();
     }
 
-    public void displayToast(View v){
+    public void applyFilter(View v){
 
         Mat img = null;
 
