@@ -9,8 +9,8 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Display Toast Message"
-        android:onClick="displayToast"
+        android:text="Apply Canny Filter"
+        android:onClick="applyFilter"
         />
 
     <ImageView
