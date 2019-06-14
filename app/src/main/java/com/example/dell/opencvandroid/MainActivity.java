@@ -5,7 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import org.opencv.android.OpenCVLoader;
 import org.opencv.android.Utils;
@@ -24,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void applyFilter(View v){
-
         Mat img = null;
 
         try {

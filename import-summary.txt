@@ -131,9 +131,6 @@ so manually move them:
 * javadoc\org\opencv\imgcodecs\package-tree.html
 * javadoc\org\opencv\imgproc\
 * javadoc\org\opencv\imgproc\CLAHE.html
-* javadoc\org\opencv\imgproc\GeneralizedHough.html
-* javadoc\org\opencv\imgproc\GeneralizedHoughBallard.html
-* javadoc\org\opencv\imgproc\GeneralizedHoughGuil.html
 * javadoc\org\opencv\imgproc\Imgproc.html
 * javadoc\org\opencv\imgproc\LineSegmentDetector.html
 * javadoc\org\opencv\imgproc\Moments.html
@@ -143,6 +140,7 @@ so manually move them:
 * javadoc\org\opencv\imgproc\package-tree.html
 * javadoc\org\opencv\ml\
 * javadoc\org\opencv\ml\ANN_MLP.html
+* javadoc\org\opencv\ml\ANN_MLP_ANNEAL.html
 * javadoc\org\opencv\ml\Boost.html
 * javadoc\org\opencv\ml\DTrees.html
 * javadoc\org\opencv\ml\EM.html
@@ -187,6 +185,7 @@ so manually move them:
 * javadoc\org\opencv\photo\Photo.html
 * javadoc\org\opencv\photo\Tonemap.html
 * javadoc\org\opencv\photo\TonemapDrago.html
+* javadoc\org\opencv\photo\TonemapDurand.html
 * javadoc\org\opencv\photo\TonemapMantiuk.html
 * javadoc\org\opencv\photo\TonemapReinhard.html
 * javadoc\org\opencv\photo\package-frame.html
@@ -201,13 +200,12 @@ so manually move them:
 * javadoc\org\opencv\video\BackgroundSubtractor.html
 * javadoc\org\opencv\video\BackgroundSubtractorKNN.html
 * javadoc\org\opencv\video\BackgroundSubtractorMOG2.html
-* javadoc\org\opencv\video\DISOpticalFlow.html
 * javadoc\org\opencv\video\DenseOpticalFlow.html
+* javadoc\org\opencv\video\DualTVL1OpticalFlow.html
 * javadoc\org\opencv\video\FarnebackOpticalFlow.html
 * javadoc\org\opencv\video\KalmanFilter.html
 * javadoc\org\opencv\video\SparseOpticalFlow.html
 * javadoc\org\opencv\video\SparsePyrLKOpticalFlow.html
-* javadoc\org\opencv\video\VariationalRefinement.html
 * javadoc\org\opencv\video\Video.html
 * javadoc\org\opencv\video\package-frame.html
 * javadoc\org\opencv\video\package-summary.html
@@ -223,7 +221,11 @@ so manually move them:
 * javadoc\overview-summary.html
 * javadoc\overview-tree.html
 * javadoc\package-list
-* javadoc\script.js
+* javadoc\resources\
+* javadoc\resources\background.gif
+* javadoc\resources\tab.gif
+* javadoc\resources\titlebar.gif
+* javadoc\resources\titlebar_end.gif
 * javadoc\serialized-form.html
 * javadoc\stylesheet.css
 
@@ -232,10 +234,11 @@ Moved Files:
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
-* AndroidManifest.xml => openCVLibrary410\src\main\AndroidManifest.xml
-* res\ => openCVLibrary410\src\main\res\
-* src\ => openCVLibrary410\src\main\java\
-* src\org\opencv\engine\OpenCVEngineInterface.aidl => openCVLibrary410\src\main\aidl\org\opencv\engine\OpenCVEngineInterface.aidl
+* AndroidManifest.xml => openCVLibrary344\src\main\AndroidManifest.xml
+* lint.xml => openCVLibrary344\lint.xml
+* res\ => openCVLibrary344\src\main\res\
+* src\ => openCVLibrary344\src\main\java\
+* src\org\opencv\engine\OpenCVEngineInterface.aidl => openCVLibrary344\src\main\aidl\org\opencv\engine\OpenCVEngineInterface.aidl
 
 Next Steps:
 -----------

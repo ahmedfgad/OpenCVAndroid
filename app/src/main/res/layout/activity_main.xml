@@ -12,13 +12,11 @@
         android:text="Apply Canny Filter"
         android:onClick="applyFilter"
         />
-
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/test"
         android:id="@+id/img"
-        android:adjustViewBounds="true"
-        />
+        android:src="@drawable/test"
+        android:adjustViewBounds="true"/>
 
 </LinearLayout>
